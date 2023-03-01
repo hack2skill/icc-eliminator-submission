@@ -18,3 +18,6 @@
 - Digital Assets for inherent value
 - Customizable for ease of scalability 
 - Physical Experiences for Top spots in leaderboard
+
+### Snapshots
+  ![](https://github.com/miscsamchris/icc-eliminator-submission/blob/main/WolfPackSociety/ImageAssets/AR_Poster.gif)
