@@ -56,6 +56,7 @@ To run the demo follow these steps:
     git clone "https://github.com/Kali-Decoder/Ethereum-Express-ICC.git"
     cd  # Navigate to the new folder.
     yarn install # Installs all the dependencies.
+    yarn start 
     ```
 
 <br/>
