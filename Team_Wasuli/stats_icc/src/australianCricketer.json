@@ -1,0 +1,60 @@
+{
+    "players": [
+      {
+        "name": "Aaron Finch",
+        "role": "Captain, Top-order batsman",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/AARON_FINCH_%286299558883%29.jpg/220px-AARON_FINCH_%286299558883%29.jpg"
+      },
+      {
+        "name": "David Warner",
+        "role": "Opening batsman",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAVID_WARNER_%2811704782453%29.jpg/220px-DAVID_WARNER_%2811704782453%29.jpg"
+      },
+      {
+        "name": "Steve Smith",
+        "role": "Middle-order batsman",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/STEVE_SMITH_%2811705303043%29.jpg/220px-STEVE_SMITH_%2811705303043%29.jpg"
+      },
+      {
+        "name": "Marnus Labuschagne",
+        "role": "Middle-order batsman, Legbreak bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Day_4_of_the_3rd_Test_of_the_2019_Ashes_at_Headingley_%2848631113862%29_%28Marnus_Labuschagne_cropped%29.jpg/220px-Day_4_of_the_3rd_Test_of_the_2019_Ashes_at_Headingley_%2848631113862%29_%28Marnus_Labuschagne_cropped%29.jpg"
+      },
+      {
+        "name": "Glenn Maxwell",
+        "role": "Middle-order batsman, Offspin bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/3-_Protest_Glenn_Maxwell_%28cropped%29.jpg/220px-3-_Protest_Glenn_Maxwell_%28cropped%29.jpg"
+      },
+      {
+        "name": "Marcus Stoinis",
+        "role": "Allrounder, Middle-order batsman, Medium-fast bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg/220px-2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg"
+      },
+      {
+        "name": "Alex Carey",
+        "role": "Wicket-keeper, Middle-order batsman",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alex_Carey_wicket-keeping_Ashes_2021_%28cropped_2%29.jpg/220px-Alex_Carey_wicket-keeping_Ashes_2021_%28cropped_2%29.jpg"
+      },
+      {
+        "name": "Pat Cummins",
+        "role": "Vice-captain, Fast bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2018.01.21.14.55.22-Roy_c_Finch_b_Cummins-0001_%2840183230984%29_%28Cummins_cropped%29.jpg/220px-2018.01.21.14.55.22-Roy_c_Finch_b_Cummins-0001_%2840183230984%29_%28Cummins_cropped%29.jpg"
+      },
+      {
+        "name": "Mitchell Starc",
+        "role": "Left-arm fast bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mitchell_Starc_fielding_2021_%28cropped%29.jpg/220px-Mitchell_Starc_fielding_2021_%28cropped%29.jpg"
+      },
+      {
+        "name": "Adam Zampa",
+        "role": "Legbreak bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Adam_Zampa_2023.jpg/220px-Adam_Zampa_2023.jpg"
+      },
+      {
+        "name": "Josh Hazlewood",
+        "role": "Fast bowler",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2018.01.21.17.06.41-Hazelwood_%2839139885264%29.jpg/220px-2018.01.21.17.06.41-Hazelwood_%2839139885264%29.jpg"
+      }
+    ]
+  }
+  

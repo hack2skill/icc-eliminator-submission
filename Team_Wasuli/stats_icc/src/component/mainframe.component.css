@@ -1,0 +1,50 @@
+.mainframe-container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #2c2c2c;
+
+}
+
+.title{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.desc{
+    margin: 10px 0;
+    opacity: .6;
+}
+
+.player-container{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+.player{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: #1a1a1a;
+    padding: 5px;
+    border-radius: 10px;
+    border: .1px solid rgba(255, 255, 255, .1);
+}
+
+.player img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.player-desc{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.page-title{
+    font-weight: 600;
+    margin: 20px 0;
+}
