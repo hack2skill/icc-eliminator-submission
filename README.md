@@ -21,3 +21,5 @@
 
 ### Snapshots
   ![](https://github.com/miscsamchris/icc-eliminator-submission/blob/main/WolfPackSociety/ImageAssets/AR_Poster.gif)
+  ![](https://github.com/miscsamchris/icc-eliminator-submission/blob/main/WolfPackSociety/ImageAssets/Purchase_Tshirt.gif)
+  ![](https://github.com/miscsamchris/icc-eliminator-submission/blob/main/WolfPackSociety/ImageAssets/NFT%20Unlocked.gif)
