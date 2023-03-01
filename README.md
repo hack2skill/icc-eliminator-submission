@@ -9,6 +9,7 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
+###### Team Name - Chain Wizards
+###### Track - : Blockchain & Web3 Track
 ###### Brief Description and Snapshots -
+[Link To Chain Wizards Video](https://drive.google.com/file/d/1UB5g72P5n3vrzHy1z-AUEvqXNqK9Yv9Y/view?usp=sharing)
