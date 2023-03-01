@@ -20,6 +20,7 @@
 - Physical Experiences for Top spots in leaderboard
 
 ### Snapshots
-  ![](./WolfPackSociety/ImageAssets/AR_Poster.gif)
-  ![](./WolfPackSociety/ImageAssets/Purchase_Tshirt.gif)
-  ![](./WolfPackSociety/ImageAssets/NFT%20Unlocked.gif)
+![AR_Poster](https://user-images.githubusercontent.com/30191287/222267489-dcfa1716-7d45-448e-9571-1da679091745.gif)
+![Purchase_Tshirt](https://user-images.githubusercontent.com/30191287/222267579-f911c265-280e-437b-a4b1-d627676d59d2.gif)
+![NFT Unlocked](https://user-images.githubusercontent.com/30191287/222267625-13368547-e54a-47d3-9b55-26dccbf8e28c.gif)
+
