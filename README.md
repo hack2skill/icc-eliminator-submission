@@ -6,7 +6,7 @@
 
     ###### Team Name - Ethereum Express
     ###### Track - Blockchain/Web3 
-    ###### Live Demo :- [Demo]([[http://www.google.fr/](https://ethereum-express.netlify.app/)]"Demo Ethereum Express")
+    ###### Live Demo :- "https://ethereum-express.netlify.app/"
 ```
 
 
