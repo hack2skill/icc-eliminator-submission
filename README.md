@@ -14,7 +14,6 @@
 
 ### Features
 - XR Experiences
-  ![](https://github.com/miscsamchris/icc-eliminator-submission/ImageAssets/Purchase_Tshirt.gif)
 - Gamified for maximum Engagement
 - Digital Assets for inherent value
 - Customizable for ease of scalability 
