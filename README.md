@@ -75,6 +75,9 @@ This demo uses:
 
 <img width="1467" alt="Screenshot 2023-02-27 at 11 43 54 AM" src="https://user-images.githubusercontent.com/82640789/221488567-e1263ce1-6287-4165-bef3-aac0d1dcd031.png">
 
+## Multiple Wallet Connection 
+<img width="1469" alt="Screenshot 2023-03-02 at 12 41 48 AM" src="https://user-images.githubusercontent.com/82640789/222241208-89749c78-b817-4ef6-ba30-1f781d04f86c.png">
+
 <br/>
 <img width="1459" alt="Screenshot 2023-03-01 at 10 08 21 AM" src="https://user-images.githubusercontent.com/82640789/222046348-5a1850ac-c534-44f4-8ccf-9dee255c291e.png">
 
