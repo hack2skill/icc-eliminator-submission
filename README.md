@@ -8,7 +8,7 @@
 
 ## Project Description , Prototype and Status of Project :- 
 
-### Problem Solved --- 
+### Problem 
 # Tracking of the End-to-End Supply chain in the B2B Sports Market is very Hectic and Transparency is not there. 
 
 # Solution 
