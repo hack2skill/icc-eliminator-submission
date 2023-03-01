@@ -1,4 +1,4 @@
-# Idea Submission
+# Prototype Submission
 ------------
 ## Team Name 
 ##### Team WolfPackSociety
