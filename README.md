@@ -19,4 +19,5 @@ For Example:
 ![Screenshot 2023-02-26 215824](https://user-images.githubusercontent.com/124140793/222257147-c262c402-d663-4187-8fb6-5cd469ccae7d.png)
 ![Screenshot 2023-02-26 220045](https://user-images.githubusercontent.com/124140793/222257203-c7651507-e88e-4a4e-a688-4744e11ea9ee.png)
 
+[Link To Chain Wizards ppt](https://docs.google.com/presentation/d/1uobCtAeElXOriLIz2KFADTMvFKFH8vbt/edit?usp=sharing&ouid=111715451266545197465&rtpof=true&sd=true)
 [Link To Chain Wizards Video](https://drive.google.com/file/d/1UB5g72P5n3vrzHy1z-AUEvqXNqK9Yv9Y/view?usp=sharing)
