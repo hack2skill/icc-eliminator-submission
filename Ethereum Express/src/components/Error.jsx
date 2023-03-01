@@ -23,7 +23,7 @@ const Error = ({ message }) => {
           </svg>
           <span className="sr-only">Info</span>
           <div>
-            <span className="font-medium">Alerting </span> {message}
+            <span className="font-medium">Alerting !</span> {message}
           </div>
         </div>
       </div>
