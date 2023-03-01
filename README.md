@@ -11,5 +11,5 @@ For Example:
 ------------
 ###### Team Name - Chain Wizards
 ###### Track - : Blockchain & Web3 Track
-###### Brief Description and Snapshots - 
+###### Brief Description and Snapshots - ![logo 1](https://user-images.githubusercontent.com/124140793/222256013-5e6d2728-ca67-4123-8663-aaa57ad5bcc7.png)
 [Link To Chain Wizards Video](https://drive.google.com/file/d/1UB5g72P5n3vrzHy1z-AUEvqXNqK9Yv9Y/view?usp=sharing)
