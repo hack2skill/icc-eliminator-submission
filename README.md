@@ -16,7 +16,7 @@ A Meta Quest headset
 Unreal Engine 4.27 or higher
 MetaHuman 3D avatar creator platform
 
-##Installation
+## Installation
 
 1. Clone the repository to your local machine
 2. Install Unreal Engine 4.27 or higher
@@ -25,17 +25,17 @@ MetaHuman 3D avatar creator platform
 4. Open the project in Unreal Engine
 5. Connect the Meta Quest headset to your computer
 6. Build and run the project
-##Usage
+## Usage
 To use the platform, follow these steps:
 
 Put on the Meta Quest headset
 Follow the instructions provided by the 3D avatar to learn the techniques
-##Features
-Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
-Multiple master batting classes included, such as the flick, cover drive, and pull shot
-Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and OpenPose
+## Features
+1. Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
+2. Multiple master batting classes included, such as the flick, cover drive, and pull shot
+3. Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and OpenPose
 Immersive and engaging experience
-##Todo List
+## Todo List
 1. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
 2. Add more master classes for batting
 3. Create an analytics dashboard to track user progress and performance
