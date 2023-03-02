@@ -27,3 +27,4 @@ experience.
 8. Social features: The website could also have social features, such as the ability to connect with other fans and share photos and updates
 from the game. This would create a sense of community and enhance the overall fan experience
 
+"To host the site you can fork the repo and go to pages section in the settings and then deploy it in the by the selected branch /root and donot give custom url because mostly you might face dns server error and then when the link is generated to the site you can checkout our site."
