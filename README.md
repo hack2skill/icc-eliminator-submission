@@ -56,7 +56,8 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 
 https://user-images.githubusercontent.com/48623612/222485817-e996263d-aced-4b49-9180-1f27246d3fb7.mp4
 
-You can find more details on the language models : https://convaiinnovations.com/
+
+You can find more details on the CUTY on : https://convaiinnovations.com/
 
 2. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
 3. Add more master classes for batting
