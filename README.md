@@ -34,8 +34,13 @@ To run this project, you will need:
 ## Usage
 To use the platform, follow these steps:
 
+### Download and install the app on Meta Quest 2
+
+https://drive.google.com/file/d/1uqhaYZOzGVh08LTyucLwd6O-Bfb6z8m0/view?usp=share_link
+
 Put on the Meta Quest headset
 Follow the instructions provided by the 3D avatar to learn the techniques
+
 ## Features
 1. Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
 2. Multiple master batting classes included, such as the flick, cover drive, and pull shot
