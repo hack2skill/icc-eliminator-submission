@@ -31,10 +31,12 @@ const Status = () => {
                     <span className="order-track-status-line"></span>
                   </div>
                   <div className="order-track-text flex ">
-                    <div className="flex flex-col"><p className="order-track-text-stat">Order Received</p>
-                    <span className="order-track-text-sub">
-                      21st November, 2019
-                    </span></div>
+                    <div className="flex flex-col">
+                      <p className="order-track-text-stat">Order Received</p>
+                      <span className="order-track-text-sub">
+                        21st November, 2019
+                      </span>
+                    </div>
                     <QRCodeCanvas
                       id="qrCode"
                       value={data[0].name}
@@ -50,12 +52,23 @@ const Status = () => {
                     <span className="order-track-status-dot"></span>
                     <span className="order-track-status-line"></span>
                   </div>
-                  <div className="order-track-text">
-                    <p className="order-track-text-stat">Order Processed</p>
-                    <span className="order-track-text-sub">
-                      21st November, 2019
-                    </span>
+                  <div className="order-track-text flex">
+                    <div className="flex flex-col">
+                      {" "}
+                      <p className="order-track-text-stat">Order Processed</p>
+                      <span className="order-track-text-sub">
+                        21st November, 2019
+                      </span>
+                    </div>
                   </div>
+                  <QRCodeCanvas
+                    id="qrCode"
+                    value={data[0].name}
+                    size={50}
+                    bgColor={"#ffffff"}
+                    level={"L"}
+                    className="mx-10"
+                  />
                 </div>
                 <div className="order-track-step">
                   <div className="order-track-status">
@@ -100,32 +113,6 @@ const Status = () => {
           </div>
         </div>
       </div>
-
-      {/* <div class="max-w-sm bg-white border border-gray-700 rounded-lg shadow sm:w-full flex justify-between">
-        <a href="#">
-          <img
-            class="rounded-t-lg"
-            src=""
-            alt=""
-          />
-        </a>
-        <div class="p-5">
-          <section className="root">
-            <figure>
-              <img
-                src="https://images.melorra.com/image/upload/h_350,w_350,f_auto,fl_progressive/v1571040732/live-melorra/dev/catalogue/images/TG/OPT/580/W19WTG16F_C_580.jpg"
-                alt=""
-              />
-              <figcaption>
-                <h4>Some Jewellery Name</h4>
-                <h6>Category</h6>
-                <h2>₹ 23,456</h2>
-              </figcaption>
-            </figure>
-            
-          </section>
-        </div>
-      </div> */}
     </>
   );
 };

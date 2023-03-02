@@ -3,14 +3,13 @@
     border-radius: 5px;
     box-shadow: 0 2rem 6rem rgba(0, 0, 0, 0.3);
   }
-figure {
+.figure {
     display: flex;
   }
-  figure img {
+  .figure img {
     width: 8rem;
     height: 8rem;
     border-radius: 50%;
-    border: 1px solid #f05a00;
     margin-right: 1.5rem;
   }
   figure figcaption {
