@@ -53,7 +53,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 
 ## Todo List
 1. We have recently introduced **CUTY**, a **3D avatar powered by our state-of-the-art 400M large language model**. The model leverages a Transformer-based architecture similar to **GPT** and includes **internet search capability**. It took us **two years** to develop and incorporates an API for intelligent interaction with a persona. The model has been **fine-tuned on a cricket dataset** to enhance its accuracy. To experience its full potential, **kindly turn on the volume in the video demonstration**. CUTY is available both on the **web and VR platforms**. PS: Server has been turned off due to development and server cost(Nvidia A10 GPU costs)
-
+But the 3D avatar will run at https://cutie.convaiinnovations.com/
 https://user-images.githubusercontent.com/48623612/222485817-e996263d-aced-4b49-9180-1f27246d3fb7.mp4
 
 2. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
