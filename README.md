@@ -1,8 +1,9 @@
 
 # Team Name -
 ## Convai Innovations
-## Team Members
-**Nandakishor M, Anjali M**
+
+![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/teamconvai.png)
+
 # Track -
 ## AR/VR
 ## Brief Description and Snapshots -
