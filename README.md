@@ -5,7 +5,7 @@
 ###### Brief Description and Snapshots - 
 
 Snapshots Can be foun here: https://drive.google.com/drive/folders/1xiUO_LvuXMCZuErL0_4ru_Mha0XSVVK-?usp=share_link
-Demo Video: https://drive.google.com/drive/folders/1HoYqitgAsGmFaUvPNq5LQ5nxl2OeM3Ep?usp=share_link
+Demo Video: https://drive.google.com/file/d/1oXcQFlkApftdVp5LQN84e1Tu5wcbizbD/view?usp=share_link
 
 “Only show what the users want to see” is what makes a consumer feel more loyal and make a purchase. 
 
