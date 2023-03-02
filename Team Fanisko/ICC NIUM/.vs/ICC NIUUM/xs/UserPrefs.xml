@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{33015C67-50BC-399A-5E79-CF3EAA5F0F39}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ProjectilemotionCalulator.cs">
+    <Files>
+      <File FileName="Assets/CubeMapCaptring.cs" />
+      <File FileName="Assets/Scripts/ProjectilemotionCalulator.cs" Line="9" Column="54" />
+      <File FileName="Assets/Scripts/UIHandler.cs" Line="259" Column="40" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@4.2.3/Runtime/AR/ARSessionOrigin.cs" Line="190" Column="14" />
+      <File FileName="Assets/Scripts/ARTapToPlace.cs" Line="253" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICC NIUUM" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8295908a-3882-41ff-a2e5-597d704c86f1" />
+</Properties>
