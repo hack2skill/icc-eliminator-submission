@@ -1,9 +1,9 @@
 
-###### Team Name -
-Convai Innovations
-###### Track -
-AR/VR
-###### Brief Description and Snapshots -
+#Team Name -
+**Convai Innovations**
+# Track -
+**AR/VR**
+#Brief Description and Snapshots -
 
 # Virtual Reality Cricket Coaching with Cricketers Avatar
 ## Overview
