@@ -1,6 +1,6 @@
 # agora_video
 
-# Team Name - SportsFirst
+Team Name - SportsFirst
 
 Track - BlockChain and Web 3.0
 
@@ -13,10 +13,10 @@ Objective: This App is designed for the sole objective of increasing the adoptio
 
 Scope: The proposed watch party app will be designed to offer a social and interactive platform for cricket fans to connect and engage with each other while watching live matches. The app will include interactive audio and video channels, chat rooms for fans to connect and interact, as well as the celebrity host feature. Additionally, the app will provide a platform for fans to participate in various games and challenges related to the cricket matches they are watching.
 
-# Smart contract link :- https://polygonscan.com/address/0x2953399124F0cBB46d2CbACD8A89cF0599974963#code
+Smart contract link :- https://polygonscan.com/address/0x2953399124F0cBB46d2CbACD8A89cF0599974963#code
 
-# ScreensShots :- 
+ScreensShots :- 
 
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/126079011/222400490-ada23b69-9071-4b00-9ddc-fbe7baf13b91.jpg" width=50% height=50%>
+![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/126079011/222400490-ada23b69-9071-4b00-9ddc-fbe7baf13b91.jpg" width="400" height="790">
 
 
