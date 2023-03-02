@@ -1,0 +1,9 @@
+[submodule "icc-admin-client"]
+	path = icc-admin-client
+	url = git@github.com:rajneesh44/icc-admin-client.git
+[submodule "icc-platform"]
+	path = icc-platform
+	url = git@github.com:rajneesh44/icc-platform.git
+[submodule "ICC-Frontend"]
+	path = ICC-Frontend
+	url = git@github.com:aristaAgarwal/ICC-Frontend.git
