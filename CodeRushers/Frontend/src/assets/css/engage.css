@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 10px;
+    /* border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black; */
+}
+.modal,.chant{
+    padding: 15px;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+    
+}
+
+.modal{
+    margin-bottom: 15px;
+}
+
+.chant{
+    margin-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.modal img, .chant img{
+    overflow: hidden;
+    border-radius: 10px;
+}
+/* 
+.chant{
+    padding: 15px;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+} */
+.heading{
+    text-align: center;
+    font-size: 15PX;
+    font-weight: 500;
+}
+

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  top: 0;
+  font-family:'Golos Text', sans-serif;
+}
+
+#root{
+  padding: 0;
+  margin: 0;
+}
+h1,
+h2,
+h3 {
+  font-family: 'Helvetica Neue';
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.btn_t,
+.btn-dark,
+.btn-check:focus + .btn-dark,
+.btn-dark:focus,
+.btn-check:focus + .btn_t,
+.btn_t:focus {
+  display: block;
+    border: none;
+    box-shadow: none;
+    margin: 22px 0 0 10px;
+    width: 93%;
+    height: 82px;
+    border-radius: 5px;
+}
+
+.btn-dark:hover {
+  background: #cdcdcd;
+}
+
+.bg-primary,
+.btn-light {
+  letter-spacing: 0.7px;
+}
+
+.selected{
+  background-color: blue;
+}
+.option{
+  margin: 15px auto;
+  background-color: red;
+  width: 90%;
+  max-width: 500px;
+  padding: 20px 40px;
+  background-color: white;
+  font-size: 18px;
+  border-radius: 15px;
+  text-align: center;
+}
