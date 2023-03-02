@@ -3,6 +3,9 @@ A fintech app that integrates all these cricket-related products and features in
 
 [![CricFen App Demo](https://i3.ytimg.com/vi/fms5jFvb93o/maxresdefault.jpg)](https://youtu.be/fms5jFvb93o "CricFen App Demo Video")
 
+### Demo App:
+#### Download **app-debug.apk** file & install it in **Android Device**
+
 ### Features:
 #### ✔ Merchandise:
 Fans can buy merchandise like Jerseys, Ball & Bats, Hats, Accessories and other ICC merchandise.
