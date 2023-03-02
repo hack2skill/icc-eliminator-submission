@@ -9,6 +9,6 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
-###### Brief Description and Snapshots -
+###### Team Name - "Stuck Between Pixels"
+###### Track - Fintech
+###### Brief Description and Snapshots - 
