@@ -1,6 +1,8 @@
 
 # Team Name -
 ## Convai Innovations
+## Team Members
+**Nandakishor M, Anjali M**
 # Track -
 ## AR/VR
 ## Brief Description and Snapshots -
