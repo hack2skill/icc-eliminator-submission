@@ -1,4 +1,4 @@
-# agora_video
+# WatchParty 
 
 Team Name - SportsFirst
 
