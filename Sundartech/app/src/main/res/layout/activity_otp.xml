@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    android:background="@color/primary_background_color">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start">
+
+        <ImageView
+            android:id="@+id/backButton"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="3dp"
+            android:src="@drawable/ic_back_arrow"
+            app:tint="@color/primary_icon_color"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/mockup_verify_otp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OTP Verification"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the otp sent to +918757210196"
+        android:textColor="@color/primary_icon_color"
+        android:gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <com.kevinschildhorn.otpview.OTPView
+        android:id="@+id/otp_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:autofillHints=""
+        android:importantForAutofill="no"
+        android:inputType="number|textNoSuggestions"
+        app:otp_backgroundImage="@drawable/bg_text"
+        app:otp_cursorColor="@color/secondary_icon_color"
+        app:otp_filledBackgroundImage="@drawable/bg_button_white"
+        app:otp_filledTextSize="24sp"
+        app:otp_highlightedBackgroundImage="@drawable/bg_text"
+        app:otp_highlightedTextSize="24sp"
+        app:otp_itemCount="4"
+        app:otp_itemHeight="56sp"
+        app:otp_itemWidth="56sp"
+        app:otp_marginBetween="8dp"
+        app:otp_showCursor="true"
+        app:otp_Font="@font/righteous"
+        app:otp_textColor="@color/primary_background_color"
+        app:otp_textSize="24sp"
+        app:otp_underscoreCursor="false" />
+
+    <TextView
+        android:id="@+id/resendOtpText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/resend_otp"
+        android:textColor="@color/primary_icon_color"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <ProgressBar
+        android:id="@+id/progressBarResend"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:indeterminate="true"
+        android:indeterminateOnly="false"
+        android:theme="@style/ProgressBarColor"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="bottom|center">
+
+        <TextView
+            android:id="@+id/nextButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/bg_button_white"
+            android:backgroundTint="@color/secondary_icon_color"
+            android:gravity="center"
+            android:shadowColor="@color/black"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:textAllCaps="true"
+            android:text="Verify &amp; Proceed"
+            android:textColor="@color/white" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:indeterminate="true"
+            android:indeterminateOnly="false"
+            android:theme="@style/ProgressBarColor"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+</LinearLayout>

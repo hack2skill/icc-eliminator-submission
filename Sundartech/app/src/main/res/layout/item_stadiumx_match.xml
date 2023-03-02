@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="2dp"
+        app:cardBackgroundColor="@color/primary_icon_color"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <TextView
+                    android:id="@+id/textViewMatchTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:fontFamily="@font/inter"
+                    android:text="26th Feb, 2023 06:00 PM"
+                    android:maxLines="1"
+                    android:textSize="13sp"
+                    android:layout_gravity="center|bottom"
+                    android:textColor="@color/primary_background_color"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical|start">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:id="@+id/imageViewFirstTeamFlag"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/ic_wi"
+                                android:scaleType="centerCrop"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:gravity="center|start"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginEnd="10dp">
+
+                            <TextView
+                                android:id="@+id/textViewFirstTeamName"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="start|center"
+                                android:fontFamily="@font/inter"
+                                android:text="West Indies"
+                                android:maxLines="2"
+                                android:textColor="@color/primary_background_color"
+                                android:textStyle="bold"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="10dp"
+                            android:background="@color/primary_background_color"/>
+
+                        <TextView
+                            android:id="@+id/textViewTotalScore"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:text="v"
+                            android:textStyle="bold"
+                            android:textColor="@color/primary_background_color"
+                            android:gravity="center"
+                            android:background="@drawable/bg_text"
+                            android:backgroundTint="@color/primary_background_color"/>
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="10dp"
+                            android:background="@color/primary_background_color"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical|end">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:gravity="center|end"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginStart="10dp">
+
+                            <TextView
+                                android:id="@+id/textViewSecondTeamName"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="end"
+                                android:fontFamily="@font/inter"
+                                android:text="South Africa"
+                                android:maxLines="2"
+                                android:textColor="@color/primary_background_color"
+                                android:textStyle="bold"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:id="@+id/imageViewSecondTeamFlag"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/ic_rsa"
+                                android:scaleType="centerCrop"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewStadiumName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:fontFamily="@font/inter"
+                    android:text="Melbourne Stadium, Australia"
+                    android:maxLines="1"
+                    android:textSize="13sp"
+                    android:layout_gravity="center|bottom"
+                    android:textColor="@color/primary_background_color"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.vr.sdk.widgets.pano.VrPanoramaView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/vrPanoramaView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:background="@drawable/bg_oval"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/backButton"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/ic_back_arrow"
+        android:padding="7dp"
+        android:layout_margin="20dp"
+        app:tint="@color/primary_background_color"
+        android:backgroundTint="@color/primary_background_color"/>
+
+</FrameLayout>

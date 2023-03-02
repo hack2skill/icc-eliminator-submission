@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeIconButton"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/shopIconButton"
+        android:icon="@drawable/ic_shop"
+        android:title="Shop" />
+
+    <item
+        android:id="@+id/stadiumxIconButton"
+        android:icon="@drawable/ic_stadiumx"
+        android:title="StadiumX" />
+
+    <item
+        android:id="@+id/walletIconButton"
+        android:icon="@drawable/ic_wallet"
+        android:title="Wallet" />
+
+    <item
+        android:id="@+id/moreMenuIconButton"
+        android:icon="@drawable/ic_more"
+        android:title="More" />
+</menu>
