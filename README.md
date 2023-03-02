@@ -51,10 +51,15 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 ![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/openpose.png)
 
 ## Todo List
-1. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
-2. Add more master classes for batting
-3. Create an analytics dashboard to track user progress and performance
-4. Integrate social media sharing features to allow users to share their experience with others
+1. **Adding Our Large Language Model based 3D avatar called CUTY which run on web and VR.**
+We have developed a state-of-the-art 400M large language model with internet search capability, using a Transformer-based architecture similar to GPT. It took two years to develop and includes API integration for highly intelligent interaction with a persona.
+
+https://user-images.githubusercontent.com/48623612/222485817-e996263d-aced-4b49-9180-1f27246d3fb7.mp4
+
+2. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
+3. Add more master classes for batting
+4. Create an analytics dashboard to track user progress and performance
+5. Integrate social media sharing features to allow users to share their experience with others
 ## Screenshots
 
 <div align="center">
