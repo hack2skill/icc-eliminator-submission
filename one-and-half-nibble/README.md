@@ -53,3 +53,16 @@ The program also incorporates auctions for selling merchandise using tokens, all
 ## Conclusion
 
 FanEx is an innovative and engaging loyalty program that rewards ICC fans for their loyalty and engagement. With its use of blockchain technology and seamless user experience, it provides a unique and secure platform for fans to enhance their experience of the sport.
+
+## Team Information
+
+Team: One and half nibble
+
+Track: Blockchain & Web 3
+
+## Screenshots
+
+![Landing page](screenshots/Fanex3.png)
+![Sign in page](screenshots/Fanex1.png)
+![Wallet](screenshots/Fanex1.png)
+![Upload tickets](screenshots/Fanex2.png)
