@@ -12,9 +12,9 @@ This project provides virtual reality coaching for cricket with a 3D avatar of V
 ## Requirements
 To run this project, you will need:
 
-A Meta Quest headset
-Unreal Engine 4.27 or higher
-MetaHuman 3D avatar creator platform
+1. A Meta Quest headset
+2. Unreal Engine 4.27 or higher
+3. MetaHuman 3D avatar creator platform
 
 ## Installation
 
