@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267152864189",
+    "project_id": "agora-video-705dc",
+    "storage_bucket": "agora-video-705dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267152864189:android:a7f8616a7a93bec9b418d4",
+        "android_client_info": {
+          "package_name": "com.app.agora_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267152864189-tgldlemlt92pp003i5td6eoglffqus75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.agora_video",
+            "certificate_hash": "1ad8f2d523e292c54b4a3ccb54385e0dc894fc72"
+          }
+        },
+        {
+          "client_id": "267152864189-se7r9108nq03cl2p4tptl1utjms7h8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_unttzrUJCyeXBT71Mdj5yrC5q5pzOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267152864189-se7r9108nq03cl2p4tptl1utjms7h8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
