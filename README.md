@@ -23,15 +23,6 @@ To run this project, you will need:
 2. Unreal Engine 4.27 or higher
 3. MetaHuman 3D avatar creator platform
 
-## Installation
-
-1. Clone the repository to your local machine
-2. Install Unreal Engine 4.27 or higher
-3. Install MetaHuman 3D avatar creator platform
-
-4. Open the project in Unreal Engine : NOTE THAT DUE TO HIGHER SIZE OF THE GAME(> 5GB) DIDN'T UPLOADED IN THE GITHUB REPO. 
-5. Connect the Meta Quest headset to your computer
-6. Build and run the project 
 ## Usage
 To use the platform, follow these steps:
 
@@ -41,6 +32,14 @@ To use the platform, follow these steps:
 
 Put on the Meta Quest headset
 Follow the instructions provided by the 3D avatar to learn the techniques
+
+## Installation
+
+1. Clone the repository to your local machine
+2. Install Unreal Engine 4.27 or higher
+3. Open the project in Unreal Engine : NOTE THAT DUE TO HIGHER SIZE OF THE GAME(> 5GB) DIDN'T UPLOADED IN THE GITHUB REPO. 
+4. Connect the Meta Quest headset to your computer
+5. Build and run the project 
 
 ## Features
 1. Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
