@@ -48,7 +48,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 4. 4. Immersive and engaging experience
 
 ## Advanced video to 3d pose conversion for control rig animation Unreal Engine
-![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/openpose.png)
+![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/metrabs.png)
 
 ## Todo List
 1. **Adding Our Large Language Model based 3D avatar called CUTY which run on web and VR.**
