@@ -12,56 +12,65 @@ Project Files Sumission for ICC Eliminators
 
 ###### Important Links:
 
-Protype Video: https://youtu.be/3aX29PprPlE
-NFT Ticketing Website: https://regal-dieffenbachia-30d0dd.netlify.app/
-Runs/Over Stats Deployemt Link: https://nimble-semifreddo-5e8b72.netlify.app/
+Prototype Video: https://youtu.be/3aX29PprPlE
+
+NFT Ticketing URL: https://regal-dieffenbachia-30d0dd.netlify.app/
+
+Runs/Over Stats URL: https://nimble-semifreddo-5e8b72.netlify.app/
 
 ###### Impotant Things to know:
 
-NFT Ticketing Website:
-The NFT Ticketing system website is hosted on Mantle Testnet for efficiency and reliability.
+NFT Ticketing Platform:
+
+The NFT Ticketing system platform is deployed using blockchain technology specifically on Mantle Testnet for better efficiency and reliability.
+
 Contract Address: 0xe0A8505673180b627a46f55cBe0D844cEf78A3dE
-Testnet: Mantle
+
+Network: Mantle Testnet
+
 Testnet Scan: https://explorer.testnet.mantle.xyz/address/0xe0A8505673180b627a46f55cBe0D844cEf78A3dE
 
----
-
 Tech Stacks used:
--- Unreal Engine 5
--- Mass AI
--- React JS
--- TypeScript
--- Chart JS
--- Blockchain
--- Mantle Testnet
--- Thirdweb SDK
+
+- Unreal Engine 5
+- Mass AI
+- React JS
+- TypeScript
+- Chart JS
+- Blockchain
+- Mantle Testnet
+- Thirdweb SDK
 
 Languages:
--- C++, Visual Scripting, HLSL, Solidity, TypeScript, JavaScript, ReactJS, ChartJS
+- C++, Visual Scripting, HLSL, Solidity, TypeScript, JavaScript, ReactJS, ChartJS
 
 Platforms:
--- Unreal Engine, Blender, MetaHuman, NodeJS
+- Unreal Engine, Blender, MetaHuman, NodeJS
 
 APIs:
--- Nanite, Lumen, Chaos Vehicles, MetaHuman, Quixel Bridge, Mass AI, The Graph Protocol
+- Nanite, Lumen, Chaos Vehicles, MetaHuman, Quixel Bridge, Mass AI, The Graph Protocol
 
 Hardware:
--- GPU: NVIDIA GeForce RTX 3060 Laptop GPU
--- CPU: Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz
--- Memory: 16 GB RAM (15.84 GB RAM usable)
--- Current resolution: 1920 x 1080, 144Hz
--- Operating system: Windows 11
+- GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+
+- CPU: Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz
+
+- Memory: 16 GB RAM (15.84 GB RAM usable)
+
+- Current resolution: 1920 x 1080, 144Hz
+
+- Operating system: Windows 11
 
 Sponsored Tools:
--- Unreal Marketplace, CGTrader, TurboSquid
+- Unreal Marketplace, CGTrader, TurboSquid
 
 Frameworks:
--- Unreal Engine: Nanite, Lumen, Chaos Vehicles, MetaHuman, Quixel Bridge, Mass AI, OpenSea, Binance NFTs
+- Unreal Engine: Nanite, Lumen, Chaos Vehicles, MetaHuman, Quixel Bridge, Mass AI, OpenSea, Binance NFTs
 
 Special Mentions:
--- Crictos NFT Marketplace
--- Mini Games
--- 3D POS Tracker
+- Crictos NFT Marketplace
+- Mini Games
+- 3D POS Tracker
 
 ###### Brief Description and Snapshots -
 
