@@ -49,7 +49,7 @@ Immersive and engaging experience
 3. Create an analytics dashboard to track user progress and performance
 4. Integrate social media sharing features to allow users to share their experience with others
 ## Screenshots
-### MetaHuman Creator and Unreal Engine developments
+
 <div align="center">
   <img src="./Convai Innovations/screenshots/5.png" width="500" />
   <img src="Convai Innovations/screenshots/6.png" width="500" />
