@@ -12,8 +12,8 @@ For Example:
 ###### Team Name - SIM LABS XR
 ###### Track - AR/VR
 ###### Brief Description and Snapshots -
-We are creating
-SmartBatter ; a VR batting experience, where fans can select their most treasured
+Link for Video : https://drive.google.com/file/d/1uds7SIwanx4xo8jXpaLrkwx5EwBRo_D9/view?usp=share_link
+We are creating SmartBatter ; a VR batting experience, where fans can select their most treasured
 occasions in the history of cricket such as Shane Warne’s Ball Of The Century, Lasith Malinga’s 4 in 4 or
 Murali’s unpickable Doosra and experience it first hand as a batsman in their living room. Successful
 completion will grant SmartBatter credit to the users. This SmartBatter credit can be used to purchase
