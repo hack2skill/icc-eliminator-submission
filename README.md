@@ -4,6 +4,10 @@
 
 ![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/team.png)
 
+## Hackathon Participants
+
+**Nandakishor M, Anjali M**
+
 # Track -
 ## AR/VR
 ## Brief Description and Snapshots -
