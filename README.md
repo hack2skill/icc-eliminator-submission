@@ -78,6 +78,7 @@ This demo uses:
 
 ## Multiple Wallet Connection 
 <img width="1469" alt="Screenshot 2023-03-02 at 12 41 48 AM" src="https://user-images.githubusercontent.com/82640789/222241208-89749c78-b817-4ef6-ba30-1f781d04f86c.png">
+
 ## Product Status
 <img width="1467" alt="Screenshot 2023-03-02 at 12 53 59 PM" src="https://user-images.githubusercontent.com/82640789/222407923-7cfba87c-7c34-484e-8bb6-752c381a97ed.png">
 
