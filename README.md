@@ -36,7 +36,7 @@ To use the platform, follow these steps:
 
 ### Download and install the app on Meta Quest 2
 
-https://drive.google.com/file/d/1uqhaYZOzGVh08LTyucLwd6O-Bfb6z8m0/view?usp=share_link
+**APK Link** : https://drive.google.com/file/d/1uqhaYZOzGVh08LTyucLwd6O-Bfb6z8m0/view?usp=share_link
 
 Put on the Meta Quest headset
 Follow the instructions provided by the 3D avatar to learn the techniques
