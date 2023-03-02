@@ -9,6 +9,11 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
-###### Brief Description and Snapshots -
+###### Team Name - Bananas Academy  
+###### Track - AR/VR Track
+###### Brief Description and Snapshots - 
+
+Game Demo with Gauntlet.mp4 features gameplay of the demo with the gauntlet.
+Finger Tracking.mp4 demonstrates the finger tracking capabilities of the Gauntlet.
+Bloopers of Making the Gauntlet showcases our journey of making the gauntlet in a humurous manner.
+
