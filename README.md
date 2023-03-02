@@ -45,11 +45,11 @@ Immersive and engaging experience
 ## Screenshots
 ### MetaHuman Creator and Unreal Engine developments
 <div align="center">
-  <img src="./Convai Innovations/screenshots/1.png" width="200" />
-  <img src="Convai Innovations/screenshots/2.png" width="200" />
+  <img src="./Convai Innovations/screenshots/1.png" width="500" />
+  <img src="Convai Innovations/screenshots/2.png" width="500" />
   <br />
-  <img src="Convai Innovations/screenshots/3.png" width="200" />
-  <img src="Convai Innovations/screenshots/4.png" width="200" />
+  <img src="Convai Innovations/screenshots/3.png" width="500" />
+  <img src="Convai Innovations/screenshots/4.png" width="500" />
 </div>
 
 
