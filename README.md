@@ -52,7 +52,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 
 ## Todo List
 1. **Adding Our Large Language Model based 3D avatar called CUTY which run on web and VR.**
-We have developed a state-of-the-art 400M large language model with internet search capability, using a Transformer-based architecture similar to GPT. It took two years to develop and includes API integration for highly intelligent interaction with a persona.
+We have developed a state-of-the-art **400M large language model with internet search capability**, using a **Transformer-based architecture similar to GPT**. It took two years to develop and includes API integration for highly intelligent interaction with a persona. **Turn ON the volume in the video to see it in action!**
 
 https://user-images.githubusercontent.com/48623612/222485817-e996263d-aced-4b49-9180-1f27246d3fb7.mp4
 
