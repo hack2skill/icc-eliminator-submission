@@ -47,7 +47,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 3. Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and Pose estimation
 4. 4. Immersive and engaging experience
 
-## Advanced video to 3d pose conversion for control rig animation for Unreal Engine
+## Advanced video to 3d pose conversion for control rig animation Unreal Engine
 ![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/openpose.png)
 
 ## Todo List
