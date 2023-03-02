@@ -1,4 +1,4 @@
-# Dircetory Info Team_Wasuli
+# Directory Info Team_Wasuli
 
 This dircetory contains all the required files needed for the submission, You can check any code bases for your reference.
 
