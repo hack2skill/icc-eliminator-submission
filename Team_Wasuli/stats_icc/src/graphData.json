@@ -1,0 +1,25 @@
+{
+    "data": [
+      {"overDuration": "0-0", "run": 9},
+      {"overDuration": "1-5", "run": 11},
+      {"overDuration": "2-2", "run": 9},
+      {"overDuration": "4-4", "run": 2},
+      {"overDuration": "6-6", "run": 5},
+      {"overDuration": "7-11", "run": 14},
+      {"overDuration": "8-8", "run": 11},
+      {"overDuration": "10-10", "run": 19},
+      {"overDuration": "12-12", "run": 14},
+      {"overDuration": "13-13", "run": 4},
+      {"overDuration": "14-14", "run": 12},
+      {"overDuration": "15-15", "run": 22},
+      {"overDuration": "16-19", "run": 21},
+      {"overDuration": "17-17", "run": 5},
+      {"overDuration": "19-19", "run": 10}
+    ],
+
+    "wickets": [
+      {"overDuration": "3-3", "wicket": 1},
+      {"overDuration": "13-13", "wicket": 1}
+    ]
+}
+  
