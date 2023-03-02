@@ -1,0 +1,27 @@
+.MatchInfo {
+  font-family: Arial, sans-serif;
+}
+
+.MatchInfo h1 {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.MatchInfo p {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.MatchInfo button {
+  font-size: 20px;
+  padding: 10px;
+  background-color: #008cba;
+  color: #fff;
+  border: none;
+  border-radius: 26px;
+  cursor: pointer;
+}
+
+.MatchInfo button:hover {
+  background-color: #005c7a;
+}
