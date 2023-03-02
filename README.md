@@ -34,6 +34,8 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 1. Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
 2. Multiple master batting classes included, such as the flick, cover drive, and pull shot
 3. Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and OpenPose
+## Openpose advanced video to 3d pose conversion for control rig animation for Unreal Engine
+![alt text](./Convai Innovations/screenshots/openpose.png)
 Immersive and engaging experience
 ## Todo List
 1. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
@@ -41,9 +43,15 @@ Immersive and engaging experience
 3. Create an analytics dashboard to track user progress and performance
 4. Integrate social media sharing features to allow users to share their experience with others
 ## Screenshots
-## MetaHuman Creator
+### MetaHuman Creator and Unreal Engine developments
+<div align="center">
+  <img src="./Convai Innovations/screenshots/1.png" width="200" />
+  <img src="Convai Innovations/screenshots/2.png" width="200" />
+  <br />
+  <img src="Convai Innovations/screenshots/3.png" width="200" />
+  <img src="Convai Innovations/screenshots/4.png" width="200" />
+</div>
 
-## Training Screen
 
 Demo Video
 Check out the demo video on YouTube.
