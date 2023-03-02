@@ -28,3 +28,7 @@ experience.
 from the game. This would create a sense of community and enhance the overall fan experience
 
 "To host the site you can fork the repo and go to pages section in the settings and then deploy it in the by the selected branch /root and donot give custom url because mostly you might face dns server error and then when the link is generated to the site you can checkout our site."
+
+
+Here is a live demo of the website and explaining all the content present in the website.
+https://www.loom.com/share/234be8bd5fdc4266b5dcd910d1a035e1
