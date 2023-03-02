@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+* html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wallet{
+  width:auto !important;
+  position: relative;
+  transition: all .3s ease-in-out;
+}
+.wallet-part{
+  position:fixed;
+  z-index: 100;
+  right: 2% !important;
+  transform: scale(1.01);
+}

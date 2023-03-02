@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.092fb44c.css",
+    "main.js": "/static/js/main.4673fb81.js",
+    "static/media/Gloves.png": "/static/media/Gloves.79556373e74bac539036.png",
+    "static/media/Pad.png": "/static/media/Pad.1afa85e571286bd38b47.png",
+    "static/media/Bails.png": "/static/media/Bails.3a64485cbf098f233388.png",
+    "static/media/Thigh guard.png": "/static/media/Thigh guard.46da7e106bc230b4af76.png",
+    "static/media/Helmet.png": "/static/media/Helmet.c940c98080d117ffef17.png",
+    "static/media/Wicket Keeping Gloves.png": "/static/media/Wicket Keeping Gloves.5ae12dfff6b261e27617.png",
+    "static/media/Shoes.png": "/static/media/Shoes.a84677b59ff7f2377d91.png",
+    "static/media/Inners.png": "/static/media/Inners.33cb4c65beb882e1a6bb.png",
+    "static/media/Abdominal Guard.png": "/static/media/Abdominal Guard.ca9a25108618fc0e9704.png",
+    "static/media/product14.png": "/static/media/product14.b0ca9dfb32d17e43c5cb.png",
+    "static/media/Ball.png": "/static/media/Ball.e47eefd6dc8440ef501d.png",
+    "static/media/Stumps.png": "/static/media/Stumps.41b33b6206a9079f4571.png",
+    "static/media/Bat.png": "/static/media/Bat.3aeb65da99a105029fb9.png",
+    "static/media/banner.png": "/static/media/banner.67e160d41abbe36abb8c.png",
+    "static/media/Ball Thrower.png": "/static/media/Ball Thrower.5c72c8fc696f42b676d6.png",
+    "static/media/Pants.jpg": "/static/media/Pants.8cf641a17d6bf6d8c4bf.jpg",
+    "index.html": "/index.html",
+    "main.092fb44c.css.map": "/static/css/main.092fb44c.css.map",
+    "main.4673fb81.js.map": "/static/js/main.4673fb81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092fb44c.css",
+    "static/js/main.4673fb81.js"
+  ]
+}
