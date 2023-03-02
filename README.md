@@ -9,6 +9,6 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
-###### Brief Description and Snapshots -
+###### Team Name - GenerationVR
+###### Track - AR/VR track
+###### Brief Description and Snapshots - player tracking integration into VR
