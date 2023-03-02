@@ -28,9 +28,9 @@ To run this project, you will need:
 2. Install Unreal Engine 4.27 or higher
 3. Install MetaHuman 3D avatar creator platform
 
-4. Open the project in Unreal Engine
+4. Open the project in Unreal Engine : NOTE THAT DUE TO HIGHER SIZE OF THE GAME(> 5GB) DIDN'T UPLOADED IN THE GITHUB REPO. 
 5. Connect the Meta Quest headset to your computer
-6. Build and run the project : NOTE THAT DUE TO HIGHER SIZE OF THE GAME THE CONTENT FOLDER DIDN'T UPLOADED, MAY CRASH UNREAL
+6. Build and run the project 
 ## Usage
 To use the platform, follow these steps:
 
@@ -46,7 +46,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 2. Multiple master batting classes included, such as the flick, cover drive, and pull shot
 3. Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and OpenPose
 ## Openpose advanced video to 3d pose conversion for control rig animation for Unreal Engine
-![alt text](./Convai Innovations/screenshots/openpose.png)
+![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/openpose.png)
 Immersive and engaging experience
 ## Todo List
 1. Implement deep reinforcement learning to create an intelligent 3D avatar that can improve the user experience
