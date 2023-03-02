@@ -11,7 +11,7 @@
 ## Team members
 
 - [@Vishal chinnasamy](https://github.com/Vishal-techy)
-- [@Rathi Raguraman](https://www.github.com/octokatherine)
+- [@Rathi Raguraman](https://github.com/Rathi-Raguraman)
 - [@Rohith Kumar](https://github.com/rohith1222004)
 - [@Sasidharan](https://github.com/SasiDharan731)
 
