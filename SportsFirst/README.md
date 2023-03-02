@@ -17,6 +17,13 @@ Smart contract link :- https://polygonscan.com/address/0x2953399124F0cBB46d2CbAC
 
 ScreensShots :- 
 
-![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/126079011/222400490-ada23b69-9071-4b00-9ddc-fbe7baf13b91.jpg" width="400" height="790">
+![welecome_screen](https://user-images.githubusercontent.com/126079011/222400490-ada23b69-9071-4b00-9ddc-fbe7baf13b91.jpg)
+
+![home_screen](https://user-images.githubusercontent.com/126079011/222400572-5218864c-ae40-4480-9b8b-9696dabee1cf.jpg)
+
+![join_screen](https://user-images.githubusercontent.com/126079011/222400612-249b3184-1e94-42c0-98c2-56f0047fb255.jpg)
+
+![watch_party_screen](https://user-images.githubusercontent.com/126079011/222400627-ce288ca8-06ca-4409-80d8-423ee4fa3d1f.jpg)
+
 
 
