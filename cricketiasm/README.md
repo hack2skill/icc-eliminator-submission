@@ -113,17 +113,17 @@ Moreover, more fans will get opportunities to buy these digital collectibles due
 
 <p>HomePage</p>
 
-![image](./frontend/public/Screenshot%202023-03-02%20133749.png)
+![image](./frontend/public/home.png)
 
-![image](./frontend/public/Screenshot%202023-03-02%20133803.png)
+![image](./frontend/public/home2.png)
 
 <p> Subscription passes</p>
 
-![image](./frontend/public/Screenshot%202023-03-02%20133815.png)
+![image](./frontend/public/pass.png)
 
 <p> Fractional NFTs</p>
 
-![image](./frontend/public/Screenshot%202023-03-02%20133826.png)
+![image](./frontend/public/fractional.png)
 
 <!-- CONTRIBUTING -->
 
