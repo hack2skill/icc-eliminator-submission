@@ -6,7 +6,8 @@
 
 ## Hackathon Participants
 
-**Nandakishor M, Anjali M**
+1. **Nandakishor M**
+2. **Anjali M**
 
 # Track -
 ## AR/VR
