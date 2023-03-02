@@ -24,7 +24,7 @@ To run this project, you will need:
 
 4. Open the project in Unreal Engine
 5. Connect the Meta Quest headset to your computer
-6. Build and run the project
+6. Build and run the project : NOTE THAT DUE TO HIGHER SIZE OF THE GAME THE CONTENT FOLDER DIDN'T UPLOADED, MAY CRASH UNREAL
 ## Usage
 To use the platform, follow these steps:
 
