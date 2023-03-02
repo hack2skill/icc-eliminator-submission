@@ -1,4 +1,4 @@
-# ICC Eliminator Submisison
+# Team Tek3 ICC Eliminator Submisison
 Teams will be required to submit their code base on GitHub by forking this repository.
 Follow the following steps to submit your code base.
 1. **Fork** this repository.
