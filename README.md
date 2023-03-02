@@ -9,6 +9,13 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
+###### Team Name - SIM LABS XR
+###### Track - AR/VR
 ###### Brief Description and Snapshots -
+We are creating
+SmartBatter ; a VR batting experience, where fans can select their most treasured
+occasions in the history of cricket such as Shane Warne’s Ball Of The Century, Lasith Malinga’s 4 in 4 or
+Murali’s unpickable Doosra and experience it first hand as a batsman in their living room. Successful
+completion will grant SmartBatter credit to the users. This SmartBatter credit can be used to purchase
+tickets to the ICC events, ICC merchandise and unlock other scenarios in the app.
+For the prototype level these scenarios will be handpicked and made available.
