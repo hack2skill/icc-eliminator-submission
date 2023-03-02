@@ -19,33 +19,36 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+### Team Information
+
+---
+
+###### Team Name - Cricketiasm
+
+###### Track - Blockchain and Web3
+
+###### video link - https://drive.google.com/file/d/14JHvlMVDNs0J10g3itdtQ-zXnwugRyRA/view?usp=sharing
+
+###### Brief Description and Snapshots -
+
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
+<h3 align="center">Cricket Classic NFTs</h3>
 
   <p align="center">
-    project_description
+  This is an NFT marketplace made solely for cricket purposes in ICC NIUM Hackathon 2023. This marketplace consists of NFTs for cricket fans. These NFTs can represent specific moments in the game, historical moments, or unique merchandise items that fans can own as digital assets. These NFTs could be turned fractional allowing more people to participate due to reasonable prices and wide availability. We also can create NFT Passes that could be owned die-hard cricket fans (like me), giving them free passes to matches and a lot of other benefits. These passes will be on a Subscription basis i.e. fans would not always be owners of them, they would have to renew them regularly or NFTs would be back to the market.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,9 +82,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+First of all there are not much effective marketplaces for these purposes. Nobody has utilised full power of this NFT in field of cricket which we aim to do.
+Lets see this point with an example, we aim to create a section of subscription based tickets, passes and collectibles that would lead to constant earning of ICC and also keep the utility of these NFTs forever. None has utilized this part yet. We also aim to create Fractional ownership of popular collectibles. Why should a NFT of Virat Kohli hitting a straight six to Haris Rauf be owned by just one person? It must be available to most of fans as is of that level of event.
+There are many other features that are quite obvious for us but not yet implemented and we aim to do so.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,46 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
-- [![Angular][angular.io]][angular-url]
-- [![Svelte][svelte.dev]][svelte-url]
-- [![Laravel][laravel.com]][laravel-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+- [https://hardhat.org/]
+- [https://ethereum.org/en/]
+- [https://nodejs.org/en/]
+- [https://alchemyapi.io/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,24 +103,15 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+Our product would be beneficial for both ICC and fans to a great extent. Using the subscription and fractional models of NFTs tickets and collectibles would lead to an exponential increase in earnings of ICC as compared to just creating one-time sell NFTs and collectibles.
+Moreover, more fans will get opportunities to buy these digital collectibles due to reasonable prices of as low as a few dollars without compromising the revenues of ICC. More buyers will also increase ICC’s reach and cricket’s popularity in web3 and blockchain.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <images> -->
+
+## snapshots
+
+[![image](./frontend/public/virat.jpeg)]
 
 <!-- CONTRIBUTING -->
 
@@ -184,19 +142,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Shashank Trivedi - [@urshashankt](https://twitter.com/urShashankt)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
+Project Link: [https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm](https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,15 +152,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-url]: https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
