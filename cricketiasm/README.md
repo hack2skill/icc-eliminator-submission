@@ -44,7 +44,7 @@
     <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm">View Demo</a>
+    <a href="https://drive.google.com/file/d/14JHvlMVDNs0J10g3itdtQ-zXnwugRyRA/view?usp=sharing">View Demo</a>
     ·
     <a href="https://github.com/lordshashank/icc-eliminator-submission/tree/main/cricketiasm/issues">Report Bug</a>
     ·
