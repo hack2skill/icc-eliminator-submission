@@ -11,6 +11,8 @@ All the models of room and in museum is created by our team with the help of 3d 
 
 Link to the Video of Virtual Museum : https://youtu.be/hZMoKvWKqVY
 
+Link to the Spatial Demo Museum: https://www.spatial.io/s/Cricket-Museum-640019dae44f9373b7ef2f7f?share=7092743041018936836
+
 ![Cricket Museum on 3-2-23 at 7 06 PM (1)](https://user-images.githubusercontent.com/126787371/222451797-e3867101-623c-4bd0-918d-aa2376a41304.png)
 ![Cricket Museum on 3-2-23 at 7 06 PM](https://user-images.githubusercontent.com/126787371/222451883-65a4fa7e-7dce-4175-bccc-274ba1b7e4ff.png)
 ![Cricket Museum on 3-2-23 at 7 07 PM (1)](https://user-images.githubusercontent.com/126787371/222451927-3c1dc3f5-c2f4-4701-874d-5fa44a198b39.png)
