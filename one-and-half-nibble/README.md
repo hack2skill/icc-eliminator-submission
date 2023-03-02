@@ -48,7 +48,7 @@ The program also incorporates auctions for selling merchandise using tokens, all
     In the application we have created interface to login using wallet, scanning ticket's QR code to get rewards, option to like tweets in ICC's feed and get rewarded for it, etc.
 
 ## Video
-[Video explaining the demo]()
+[Video explaining the demo](https://youtu.be/RVxafLQJao0)
 
 ## Conclusion
 
