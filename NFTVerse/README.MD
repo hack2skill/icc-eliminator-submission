@@ -1,17 +1,13 @@
-# ICC Eliminator Submisison
-Teams will be required to submit their code base on GitHub by forking this repository.
-Follow the following steps to submit your code base.
-1. **Fork** this repository.
-1. Create a **folder with your team name**
-1. **Upload** your code base and videos to the repository.
-1. Create a **pull request** to this repository. Make sure you raise your **pull request** as per your **team name**.
-1. You can also add you team details in the README.md of your forked repository
-   For Example:
-### Team Information
-------------
-###### Team Name - NFTVerse
-###### Track - Web3 and blockchain
-###### Brief Description and Snapshots -
+CricTales:
+Contracts deployed on Testnet
+Address: https://testnet.flowscan.org/account/0x2e0e1fc45f23609e
+
+Contracts folder - All the smart contract
+Transactions folder - All the transactions needed for blockchain(to mint token, to transfer token)
+Scripts folder: All the read request from blockchain
+WalletPlugin: javascript library for wallet integration on any web2 apps/website
+Mobile App - CricTales Game mobile App
+
 Problem statement: Creating digital twins of ICC merchandise and loyalty program by creating a decentralised Fan Token (CRICK Token) that can be mined by doing different activities across different ICC apps and events and creating a real/virtual world utility for those tokens.
 
 Solution: SDK for digital twins and loyalty program. Code is inside WalletPlugin folder. The wallet plugin can be integrated on any web 2.0 apps where users can create and manage their crypto assets (mainly for cricToken and crictales NFTs).

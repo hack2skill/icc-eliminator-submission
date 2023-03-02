@@ -1,0 +1,51 @@
+{
+  "name": "cricktales",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "eject": "expo eject",
+    "test": "jest --watchAll",
+    "build": "eas build -p android --profile preview",
+    "link": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/",
+    "doc": "expo-cli doctor",
+    "docDep": "expo-cli doctor --fix-dependencies",
+    "release-build": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res",
+    "push": "expo push:android:upload --api-key AAAA8YuiTWM:APA91bEu-IlAA1jVdgP7TIdH3_g9d7U8Je0O34brjJ-euNXpQQZLl4dLux9HPgtQByAkm-YqcN6xsmk3fvPeEfVDDTi-b22FtPG6W8D6ux6_YrjYUTlVrQZixJby_MvwF1WlhA7J20ws",
+    "credentials": "eas credentials"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@types/react": "~18.0.27",
+    "axios": "^1.3.4",
+    "expo": "~48.0.4",
+    "expo-av": "^13.2.1",
+    "expo-clipboard": "^4.1.1",
+    "expo-device": "^5.2.1",
+    "expo-notifications": "^0.18.1",
+    "expo-splash-screen": "~0.18.1",
+    "expo-status-bar": "~1.4.4",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-dotenv": "^3.4.8",
+    "react-native-gesture-handler": "^2.5.0",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-paper": "^5.2.0",
+    "react-redux": "^8.0.5",
+    "redux-persist": "^6.0.0",
+    "typescript": "^4.9.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "tailwindcss": "^3.2.7"
+  },
+  "private": true
+}
