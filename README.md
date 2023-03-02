@@ -1,8 +1,8 @@
-ICC Eliminator Submisison
+ICC Eliminator Submission
 Team Information
 ------------
 Team Name - PrayasVi
-Track - Ar/VR Track
+Track - AR/VR Track
 Brief Description and Snapshots - 
 
 Problem Statement : Providing Realtime Player and Cricket Experience to Large Number of Fans 
