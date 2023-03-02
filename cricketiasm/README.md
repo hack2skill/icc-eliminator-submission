@@ -111,7 +111,10 @@ Moreover, more fans will get opportunities to buy these digital collectibles due
 
 ## snapshots
 
-[![image](./frontend/public/virat.jpeg)]
+![image](./frontend/public/Screenshot%202023-03-02%20133749.png)
+![image](./frontend/public/Screenshot%202023-03-02%20133803.png)
+![image](./frontend/public/Screenshot%202023-03-02%20133815.png)
+![image](./frontend/public/Screenshot%202023-03-02%20133826.png)
 
 <!-- CONTRIBUTING -->
 
