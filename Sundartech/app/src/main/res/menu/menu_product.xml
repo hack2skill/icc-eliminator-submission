@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/shareMenu"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom"
+        android:title="Share"
+        app:iconTint="@color/primary_icon_color">
+    </item>
+    <item
+        android:id="@+id/wishlistMenu"
+        android:icon="@drawable/ic_wishlist"
+        app:showAsAction="ifRoom"
+        android:title="Wishlist"
+        app:iconTint="@color/primary_icon_color"
+        >
+    </item>
+</menu>

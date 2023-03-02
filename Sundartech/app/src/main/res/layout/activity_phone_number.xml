@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    android:background="@color/primary_background_color">
+
+    <ImageView
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/backButton"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_back_arrow"
+        android:padding="3dp"
+        android:layout_gravity="start"
+        app:tint="@color/primary_icon_color"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/mockup_otp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OTP Verification"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We will send you an One Time Password on this mobile number."
+        android:textColor="@color/primary_icon_color"
+        android:gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_rectangular_border"
+        android:backgroundTint="@color/primary_icon_color"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp">
+
+        <com.ak.ui.CountryCodePicker
+            android:id="@+id/ccp_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:contentColor="@color/primary_icon_color"
+            app:showFlag="true"
+            android:gravity="center"
+            app:defaultNameCode="in"
+            app:showArrowDown="true"
+            app:showNameCode="false"
+            app:arrowSize="@dimen/_20sdp"
+            app:textSize="@dimen/_12ssp"
+            app:excludedCountries="ad,ae" />
+
+        <EditText
+            android:id="@+id/editTextPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@null"
+            app:drawableTint="@color/white"
+            android:hint="Phone Number"
+            android:textColorHint="@color/primary_icon_color"
+            android:textSize="18sp"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:layout_marginStart="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="bottom|center">
+
+        <TextView
+            android:id="@+id/sendOTPButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/bg_button_white"
+            android:backgroundTint="@color/secondary_icon_color"
+            android:gravity="center"
+            android:shadowColor="@color/black"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:text="SEND OTP"
+            android:textColor="@color/white"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:indeterminate="true"
+            android:indeterminateOnly="false"
+            android:theme="@style/ProgressBarColor"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/acceptConditionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/accept_condition_string"
+            android:textColor="@color/primary_icon_color"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

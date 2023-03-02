@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CricFen</string>
+    <string name="news_dummy_content">The triumphant Aussies had a big night of celebrations in store after their 19-run win over South Africa in Sunday’s ICC Women’s T20 World Cup final at Newlands.
+\n\n
+But the party kicked off on the field, with plenty of the winning team speaking about their third T20 win in succession – or the ‘threepeat’ as it has been coined back home.
+\n\n
+“We have been longing for this moment since the last World Cup,” Player of the Tournament Ash Gardner said.
+\n\n
+“We played some fantastic cricket throughout the tournament. Today just showed that we were not in winning positions throughout the game, but we scrapped and we fought.</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="onboarding_title_1">All in one app for the billions of Cricket fans.</string>
+    <string name="onboarding_description_1">Get all Cricket contents &amp; services at CricFen, just catch it free.</string>
+
+    <string name="onboarding_title_2">Easy to book Cricket match ticket.</string>
+    <string name="onboarding_description_2">Get seamless ticket booking experience with 360 view features.</string>
+
+    <string name="onboarding_title_3">Get delicious food at your seat in few minutes.</string>
+    <string name="onboarding_description_3">stadium experience made easy with food &amp; beverage ordering feature.</string>
+
+    <string name="onboarding_title_4">Great shopping experience for Cricket fans.</string>
+    <string name="onboarding_description_4">Order your favourite team merchandise like Jerseys, T-shirts, Joggers &amp; more.</string>
+
+    <string name="onboarding_title_5">Get chance to win exciting prizes via contests.</string>
+    <string name="onboarding_description_5">Participate in contests &amp; get chance to win prizes as well as meet &amp; greets opportunity.</string>
+
+    <string name="onboarding_title_6">Easy to buy &amp; sell Cricket memorabilia NFTs.</string>
+    <string name="onboarding_description_6">Explore NFTs marketplace to buy &amp; sell Cricket memorabilia NFTs.</string>
+
+    <string name="accept_condition_string">By logging in you agree to our Terms of Service and Privacy Policy, including cookies use.</string>
+    <string name="resend_otp">Don\'t receive the OPT? Resend OTP</string>
+</resources>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    android:padding="15dp"
+    android:gravity="center_vertical"
+    android:backgroundTint="@color/primary_icon_color"
+    android:background="@drawable/bg_banner"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/textViewDicount"
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:text="33% OFF"
+            android:background="@drawable/bg_button_white"
+            android:backgroundTint="#33CDD0D5"
+            android:textColor="@color/white"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:gravity="center"
+            android:textSize="12sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:background="@drawable/bg_oval"
+                android:clickable="true"
+                android:focusable="true"
+                android:id="@+id/wishlistButton"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:src="@drawable/ic_wishlist"
+                android:backgroundTint="@color/primary_icon_color"
+                app:tint="@color/white"
+                android:padding="7dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="10dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textViewTeamName"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="India"
+                android:textSize="13sp"
+                android:textAllCaps="true"
+                android:rotation="270"
+                android:maxLength="3"
+                android:textColor="@color/secondary_icon_color"
+                android:gravity="center"
+                android:layout_gravity="start|center_vertical"/>
+
+            <ImageView
+                android:id="@+id/imageViewProductImage"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:src="@drawable/img_tshirt"/>
+
+            <TextView
+                android:id="@+id/textViewProductFor"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="MEN"
+                android:textSize="13sp"
+                android:textAllCaps="true"
+                android:rotation="90"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:layout_gravity="end|center"/>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textViewProductName"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Red Printed Polo T-Shirt"
+            android:maxLines="1"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:gravity="center" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="₹"
+                android:maxLines="1"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/textViewProductPriceAfterDiscount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="869"
+                android:maxLines="1"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="end|center_vertical"
+                android:layout_marginStart="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="₹"
+                    android:maxLines="1"
+                    android:textColor="@color/primary_icon_color"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/textViewProductPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1,299"
+                    android:maxLines="1"
+                    android:textSize="13sp"
+                    android:textColor="@color/primary_icon_color"
+                    android:gravity="center"
+                    android:layout_marginStart="5dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
