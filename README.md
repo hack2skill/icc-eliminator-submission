@@ -64,5 +64,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
   <img src="Convai Innovations/screenshots/1.png" width="500" />
   <img src="Convai Innovations/screenshots/2.png" width="500" />
 </div>
+## Reference 
+1. Thanks to the original video for the reference : https://www.youtube.com/shorts/OmR4WMIQcek
 
 
