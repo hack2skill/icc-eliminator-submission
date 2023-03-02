@@ -2,7 +2,7 @@
 # Team Name -
 ## Convai Innovations
 
-![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/teamconvai.png)
+![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/convaiteam.png)
 
 # Track -
 ## AR/VR
