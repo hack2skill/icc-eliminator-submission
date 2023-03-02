@@ -1,16 +1,12 @@
 # agora_video
 
-A new Flutter project.
+Team Name - SportsFirst
+Track - BlockChain and Web 3.0
+Brief Description - 
 
-## Getting Started
+"Interactive Watch Party App for Cricket with Celebrity Host Feature” [with NFT and Tokenization]"
+Cricket is not just a sport but a celebration globally, especially in India. With millions of fans watching live matches and events both in physical and digital setting Cricket is one of the most followed sport globally. The development of an interactive watch party app for Cricket can transform the way how people people watch and engage with the Sport. With Co-Watch and NFT Tokenization involved this app can be a game changer for attracting GenZ and millennial crowds. The app will also include a celebrity host feature to provide fans with an opportunity to interact with their favourite personalities.
 
-This project is a starting point for a Flutter application.
+Objective: This App is designed for the sole objective of increasing the adoption of tech and providing the audience a unique way of watching and engaging with the sport. With features such as interactive audio and video channels, in addition to NFT features, community leader boards, in-app games this app aims to be a one-stop shop for viewer entertainment.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Scope: The proposed watch party app will be designed to offer a social and interactive platform for cricket fans to connect and engage with each other while watching live matches. The app will include interactive audio and video channels, chat rooms for fans to connect and interact, as well as the celebrity host feature. Additionally, the app will provide a platform for fans to participate in various games and challenges related to the cricket matches they are watching.
