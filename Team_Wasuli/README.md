@@ -1,12 +1,12 @@
 # Directory Info Team_Wasuli
 
-This dircetory contains all the required files needed for the submission, You can check any code bases for your reference.
+This directory contains all the required files needed for the submission, You can check any code bases for your reference.
 
-## Subdircetory details:
+## Subdirectory details:
 
 ### nftTicketing_Contract
 
-nftTicketing_Contract dircetory contains the Solidity codes for our smart contract that helps the transfer of money from one wallet to another.
+nftTicketing_Contract directory contains the Solidity codes for our smart contract that helps the transfer of money from one wallet to another.
 
 ### NFTTicketingUI
 
