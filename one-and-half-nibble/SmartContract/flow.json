@@ -1,0 +1,31 @@
+{
+	"contracts": {
+		"FanxToken": "./contracts/fanxTokens.cdc",
+		"FanexNft": "./contracts/fanxNFT.cdc"
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"sandboxnet": "access.sandboxnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"my-testnet-account": {
+			"address": "0x3d1a73afefe2d7f8",
+			"key": "44c55567c3a3ce60d725588abc1fa0fcd28139ec61521b79101d84c11c30289f"
+		},
+		"testnet-account-2": {
+			"address": "0x5ac3d0ba280a3172",
+			"key": "aea2cc25455b60a6da01a300e48abf4c675bc8bb1ca46e475971b7745d726a81"
+		},
+		"testnet-account-3": {
+			"address": "0x3565a943a7de8a93",
+			"key": "2b9851d19d0c353dd5670f394007924d40f61e2a3aea4d42f4539f5842b5872b"
+		}
+	},
+	"deployments": {
+		"testnet": {
+			"my-testnet-account": ["FanxToken", "FanexNft"]
+		}
+	}
+}
