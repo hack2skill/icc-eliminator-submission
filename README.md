@@ -1,14 +1,12 @@
-# ICC Eliminator Submisison
-Teams will be required to submit their code base on GitHub by forking this repository.
-Follow the following steps to submit your code base.
-1. **Fork** this repository.
-1. Create a **folder with your team name**
-1. **Upload** your code base and videos to the repository.
-1. Create a **pull request** to this repository. Make sure you raise your **pull request** as per your **team name**.
-1. You can also add you team details in the README.md of your forked repository
-For Example:
+
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
-###### Brief Description and Snapshots -
+###### Team Name - Free Hit 
+###### Track - AR/ VR 
+###### Brief Description of the Idea -
+Our virtual reality platform offers an immersive experience for cricket fans with multiple viewing angles and a 360-degree view of the game. The system uses computer vision algorithms and machine learning to analyze video footage and identify relevant events for highlights. Personalization and data analytics capabilities are included in the platform to track user engagement and provide an unparalleled experience for fans to relive match highlights and connect to the game.
+
+
+[Prototype Video](https://jklujaipur-my.sharepoint.com/:v:/g/personal/akshatmodani_jklu_edu_in/EcOZzBLlx3pNgIzv81UkpnABrQtFBrTmtWFPyrIJcDotDA?e=ywgfcX)
+[Platform ](https://free360.netlify.app/)
+
