@@ -46,7 +46,7 @@ Follow the instructions provided by the 3D avatar to learn the techniques
 1. Virtual reality coaching for cricket with a 3D avatar of Virat Kohli
 2. Multiple master batting classes included, such as the flick, cover drive, and pull shot
 3. Advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and Pose estimation
-4. 4. Immersive and engaging experience
+4. Immersive and engaging experience
 
 ## Advanced video to 3d pose conversion for control rig animation Unreal Engine
 ![alt text](https://github.com/NandhaKishorM/icc-eliminator-submission/blob/main/Convai%20Innovations/screenshots/metrabs.png)
