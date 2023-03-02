@@ -7,7 +7,7 @@
 
 # Virtual Reality Cricket Coaching with Cricketers Avatar
 ## Overview
-This project provides virtual reality coaching for cricket with a 3D avatar of Virat Kohli, a famous Indian cricketer. The coaching covers multiple master batting classes, including the flick, cover drive, pull shot, and more. Users can access the training on the Meta Quest headset. The platform uses advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and AI based pose estimation to provide an immersive and engaging experience to the users.
+This project provides virtual reality coaching for cricket with a 3D avatar of Virat Kohli, a famous Indian cricketer. The coaching covers multiple master batting classes, including the flick, cover drive, pull shot, and more. Users can access the training on the Meta Quest headset. The platform uses advanced technologies like Unreal Engine, MetaHuman 3D avatar creator platform, and AI based pose estimation using MeTRAbs(https://arxiv.org/abs/2007.07227) to provide an immersive and engaging experience to the users.
 
 ## Demo Video
 
