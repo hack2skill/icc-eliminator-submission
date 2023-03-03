@@ -17,6 +17,7 @@ A complete end-to-end application on blockchain integrating all ICC products, ga
 
 ## Features and screenshots
 ---
+You can either checkout the [video demo](https://drive.google.com/file/d/1xc-V2izsE-yKXzvprn5py-Rr9IxVYq5w/view?usp=sharing) (less than 4 minutes) or view the screenshots below!
 
 ### Smooth onboarding for Web2 users
 #### Option to login with wallet (like Metamask) or socials (like Google, Facebook, Email).
