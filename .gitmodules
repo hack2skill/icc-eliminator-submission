@@ -1,0 +1,6 @@
+[submodule "stadiummate-web"]
+	path = stadiummate-web
+	url = https://github.com/mihirgupta0900/stadiummate-web/
+[submodule "stadiummate-app"]
+	path = stadiummate-app
+	url = https://github.com/mihirgupta0900/stadiummate-app/
