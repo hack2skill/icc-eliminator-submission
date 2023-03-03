@@ -1,13 +1,36 @@
+# Team Information
+
+#### Team Name - The GeoSquad
+#### Track - Stadium Experience
+
 <img src="https://wellness.edu.au/wp-content/uploads/2019/05/circket.jpg" width="250px" alt="GeoCricket AR" align="right">
 
 # Introduction
-<div>Tired of cluttered photo albums and boring Match Day waiting? Say goodbye to snooze-fest and hello to GeoCricket AR! The ultimate cricket fan app allows you to capture all of your favorite moments from the game or event with your smartphone camera, and then easily store, organize, and share them in a meaningful and fun way. Our cutting-edge technology allows you to create your own personalized 3D stadium, where you can revisit your memories and share them with friends, family, and the world. So why wait? Download GeoCricket AR today and get ready to hit a home run!</div>
+<div>GeoCricket AR ™ is an app that allows capturing and storing photos in the geo-space and time. Using the smartphone and, with the help of augmented reality and geospatial technology, the app will capture photos of your visit to a cricket sports event and overlay them onto the real-world map, creating a virtual time capsule of your cricket experience. Other visitors to the same cricket stadium (or even yourself at a later time) will walk around and view photos at the place and angle they were captured. This results in stadiums all over the world that are geotagged with past and current photographic memories of the cricket fans.
+</div>
 
-## About ARCore Geospatial API
- ARCore Geospatial API is a cloud localization service that allows clients to precisely geolocate smartphones with six degrees of freedom (6dof).</br>
- Unlike GPS, it can provide a **<1m translational and ~1-2 degrees rotational accuracy.** This is accomplished through visually matching your surroundings in streetview covered areas.
- 
-Dig into the API https://developers.google.com/ar/develop/geospatial
+<div>Metadata: the app will also provide context to your photos, such as the date and time they were taken, providing users with a sense of historical context of the location.</div>
+
+<div>Social Engagement: the app will also feature a social component, allowing users, not only see photos from matches and events they attended, but also to leave comments, likes and reactions to photos, creating a social and interactive experience for everyone. This way the app will not only preserve anyone’s memories but also create a community of cricket enthusiasts who share a love for the sport. </div>
+
+<div>Web Platform: optionally, from the comfort of your couch, you’ll be able to explore the collection of any cricket stadium in the world, revisit favorite moments, award popularity points (“likes”) to the best photos and share your own photos collections with friends and family.</div>
+
+<div>Selfies with your favorite players: on your way to your seat, the app will superimpose 4D life-sized, volumetric models of your favorite cricket players among the crowd. When you walk close to them, they will talk to you and you could then take a virtual selfie with the player and share it on social media.</div>
+
+<div>Popularity Routes: the app will track the number of views, likes, comments, and shares each photo receives and assign it a popularity score based on this data. The next time you arrive at the stadium with your ticket at hand, you will scan the barcode in your ticket and the app will suggest routes to your seat based on the sum of the popularity scores of the pictures taken on the way - providing an enjoyable and fun way to spend spare time before the great event. </div>
+
+## Tech Stack
+
+<div>Mobile Development:  Unity 3D Game Engine</div>
+
+<div>Augmented Reality (AR) SDK: Google’s ARCore/ Apple’s ARKit. </div>
+
+<div>Geospatial Technology / VPS Service: Geospatial technology is handled by Google’s ARCore Geospatial API or by Niantic’s LightShip ARDK.</div>
+
+<div>Volumetric video capture technology: using Volu service, create volumetric holograms of sports players – recorded with just a smartphone.</div>
+
+<div>Web Development: Web platform created with Javascript framework ReactJS, CSS, HTML5.</div>
+
 
 ## Software
 
@@ -18,6 +41,7 @@ Dig into the API https://developers.google.com/ar/develop/geospatial
 5. ARKit XR Plugin (automatically installed with the ARCore Extensions for AR Foundation SDK)
 
 #### Building GeoCricket AR
+
 1. In Google Cloud Console enable the ARCore api https://console.cloud.google.com/apis/library/arcore.googleapis.com
 2. Create a Google Cloud Console api key by visiting https://console.cloud.google.com/. Click APIs & Services, and click Credentials.
 3. Create a new API key and if you choose to restrict it, make sure you enable the ARCoreAPI
