@@ -4,6 +4,7 @@
 ###### Team Name - Jo Jeeta Wohi Sikandar
 ###### Track - Web3 & Blockchain
 ##### Video Url: https://drive.google.com/file/d/1XmWcPNgNkh5waLIwOqxgiV6J6aihC7Bf/view?usp=sharing
+##### Platform Link: https://icc-metaverse.vercel.app/
 ###### Description and Snapshots - 
 Web 3.0 Cricket Challenges Platform In Metaverse. Personalized Message From Celebrity for the Winner.
 
