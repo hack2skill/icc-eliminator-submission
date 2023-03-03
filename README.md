@@ -63,6 +63,8 @@ All activities you do, earns loyalty points, which can be redeemed for discounts
 
 ## Screenshots 🖼️
 
+[Video](https://www.loom.com/share/56cb229783a649ce93536b9ddf78226c)
+
 ## Technology Stack 💻
 
 - Web
