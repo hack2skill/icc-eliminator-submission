@@ -9,6 +9,8 @@ Follow the following steps to submit your code base.
 For Example:
 ### Team Information
 ------------
-###### Team Name -
-###### Track -
-###### Brief Description and Snapshots -
+###### Team Name - UpSwingers
+###### Track - Fintech
+###### Brief Description and Snapshots -We are building a platform called MatchSwingers in association with ICC that intends to reward viewers of ICC content and fans who interact with the platform in the form of tokens which can ultimately be swapped for ICC Collectible NFTs, merchandise, interaction with eminent personalities, etc. 
+We plan to create a virtual currency that viewers would gain by watching ICC content and answering quizzes after watching highlights. The questions will be based on polls asked during live streams and multimedia.
+
