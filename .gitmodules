@@ -1,0 +1,9 @@
+[submodule "Bits-Smashers/icc-blockchain"]
+	path = Bits-Smashers/icc-blockchain
+	url = https://github.com/SwarupKharul/icc-blockchain
+[submodule "Bits-Smashers/ICC_NextIn_Backend"]
+	path = Bits-Smashers/ICC_NextIn_Backend
+	url = https://github.com/SwarupKharul/ICC_NextIn_Backend.git
+[submodule "Bits-Smashers/icc"]
+	path = Bits-Smashers/icc
+	url = https://github.com/pranavvdesai/icc.git
