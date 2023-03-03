@@ -17,3 +17,6 @@ Our Solution - Fan Frenzy has 3 main verticals:
 3. Assistance: Don’t fear when I am here! Ask for any assistance needed on stadium like information about ticket, seat, navigation etc.
 
 Finally, everything is Built on Strong Blockchain Network Foundation, which Fan Community powers.
+
+# Run Webapp
+Open https://github.com/bhimanbaghel/icc-eliminator-submission/blob/main/cyberpunk/website/index.html on browser.
