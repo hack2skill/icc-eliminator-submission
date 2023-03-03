@@ -1,0 +1,41 @@
+<video id="video" width="640" height="480" autoplay></video>
+<button id="capture-btn">Capture</button>
+<canvas id="canvas" width="640" height="480"></canvas>
+<a id="downloadLink" download="captured-image.png" style="display:none">Download Image</a>
+
+
+
+<script>
+
+const video = document.getElementById('video');
+const canvas = document.getElementById('canvas');
+const captureButton = document.getElementById('capture-btn');
+const constraints = { video: { width: 640, height: 480,}, deviceId: {"exact":"562599c08dba1463dfbc478606bd6cc3ebe47e2d80bb91b8b33c04000f2d65b2"} };
+
+
+// Get access to the webcam and display the video stream
+navigator.mediaDevices.getUserMedia(constraints)
+  .then(stream => {
+    video.srcObject = stream;
+    video.play();
+  })
+  .catch(err => console.error('Unable to access camera: ' + err));
+
+
+// Take a snapshot of the video feed and display it on the canvas
+captureButton.addEventListener('click', () => {
+  const context = canvas.getContext('2d');
+  console.log(video);
+  context.drawImage(video, 0, 0, canvas.width, canvas.height);
+//   console.log(myimage);
+canvas.toBlob(function(blob) {
+				const url = URL.createObjectURL(blob);
+				const link = document.getElementById('downloadLink');
+				link.href = url;
+				link.click();
+			}, 'image/png');
+
+
+});
+</script>
+
