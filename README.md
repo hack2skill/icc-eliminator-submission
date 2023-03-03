@@ -20,4 +20,8 @@ Follow the following steps to submit your code base.
 
 ###### DEMO Link - https://crick-club.vercel.app/
 
+###### Github Link - https://github.com/kirtirajsinh/Crick-Club
+
+###### Video Link - https://www.loom.com/share/73ff449d950e4df8931eb0726fad8b8a
+
 ###### Brief Description and Snapshots -
