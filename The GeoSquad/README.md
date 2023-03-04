@@ -44,45 +44,6 @@ GeoCricket AR ™ is an app that allows capturing and storing photos in the geo-
 4. ARCore XR Plugin (automatically installed with the ARCore Extensions for AR Foundation SDK)
 5. ARKit XR Plugin (automatically installed with the ARCore Extensions for AR Foundation SDK)
 
-#### Building GeoCricket AR
 
-1. In Google Cloud Console enable the ARCore api https://console.cloud.google.com/apis/library/arcore.googleapis.com
-2. Create a Google Cloud Console api key by visiting https://console.cloud.google.com/. Click APIs & Services, and click Credentials.
-3. Create a new API key and if you choose to restrict it, make sure you enable the ARCoreAPI
-4. Add your API key in Project Settings > XR Plug-in Management > ARCore Extensions > Android API Key
-6. Build and deploy to your Android device
-
----
-
-# Using This Project
-
-
-## To make it work in your area
-
-1. Load the `PopularityRoute` Unity scene. 
-2. Pick `ARVPSManager` object from Hierarchy.
-3. Add as many as desired entries in GeospatialObjects List on Inspector
-3. Enter Longitude, Latitude, Altitude and the prefab to show.
-
-1. Load the `Selfie` Unity scene. 
-2. Pick `VoluManager` object from Hierarchy.
-3. Add a 4D-ready prefab to the `VoluObject` slot on Inspector
-
-
-## Start Scene
-
-Load the `Start` Unity scene in the `Assets/Scenes/` folder.
-
-Pick any of the three menu options.
- 
----
-
-# FAQ
-
-<em>My location never localizes</em>
-> <p>Make sure you're in an outdoors area with Google Street View coverage, places like public parks may be tougher to localize.  Make sure you also have data service, and not just GPS.</p>
-
-<em>I can't initialize the app</em>
-> <p>Make sure you've created an API key in Google Cloud Console and enabled the ARCore API.  A data service is also necessary to use this API.</p>
 
 
