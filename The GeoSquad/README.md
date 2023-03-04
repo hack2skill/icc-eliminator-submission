@@ -5,6 +5,10 @@
 
 <img src="https://wellness.edu.au/wp-content/uploads/2019/05/circket.jpg" width="250px" alt="GeoCricket AR" align="right">
 
+# Concept Video
+
+https://www.youtube.com/watch?v=TRUjSW_l9T8
+
 # Introduction
 GeoCricket AR ™ is an app that allows capturing and storing photos in the geo-space and time. Using the smartphone and, with the help of augmented reality and geospatial technology, the app will capture photos of your visit to a cricket sports event and overlay them onto the real-world map, creating a virtual time capsule of your cricket experience. Other visitors to the same cricket stadium (or even yourself at a later time) will walk around and view photos at the place and angle they were captured. This results in stadiums all over the world that are geotagged with past and current photographic memories of the cricket fans.
 
