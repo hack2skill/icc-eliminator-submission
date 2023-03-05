@@ -11,4 +11,4 @@ For Example:
 ------------
 ###### Team Name - GenerationVR
 ###### Track - AR/VR track
-###### Brief Description and Snapshots - player tracking integration into VR
+###### Brief Description and Snapshots - 
